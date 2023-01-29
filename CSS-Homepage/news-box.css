@@ -24,4 +24,15 @@
         margin-top: 10px;
     }
     
+    @media(max-width: 1050px){
+        .news-box{
+            width: 100%;
+            height: 200px;
+            background: #feeee7;
+            margin: 0 auto;
+            margin-bottom: 30px;
+            border: none;
+            border-radius:unset;
+            }
+    }
     
