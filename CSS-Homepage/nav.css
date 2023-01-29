@@ -59,3 +59,21 @@ li, a, button{
     background-color: rgba(0,136,169,0.8);
 }
 /*End of NavBar*/
+
+@media(max-width: 430px){
+    .nav-btn{
+        margin-top: 300px;
+        margin-left: -210px;
+    }
+}
+
+@media(max-width: 300px){
+    .nav{
+        margin-top: 200px;
+        margin-left: -110px;
+    }
+    .nav-btn{
+        margin-top: 400px;
+        margin-left: -170px;
+    }
+}
